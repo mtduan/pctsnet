@@ -1,6 +1,3 @@
-# pctsnet
-
-
 <h1 align="center">PctsNet: Prediction of cell type-specific cis-regulatory networks from scATAC-seq data using graph neural networks</h1>
 
 ## Description
@@ -8,7 +5,7 @@
 PctsNet: Single-cell analysis for cell type-specific cis-regulatory network prediction using graph neural networks, an end-to-end deep learning model for regulatory interaction inference from scATAC-seq data.
 
 <p align="center">
-  <img src="./images/MarsGT%20Flowchart%203.svg" alt="PctsNet Flowchart" width="900">
+  <img src="./images/Flowchart.tif" alt="PctsNet Flowchart" width="900">
 </p>
 
 ## Installation
